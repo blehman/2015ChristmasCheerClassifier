@@ -1,2 +1,4 @@
 # 2015ChristmasCheerClassifier
-Fun Data Comp
+Fun Data Comp.  
+
+See the readme.txt file for details.
